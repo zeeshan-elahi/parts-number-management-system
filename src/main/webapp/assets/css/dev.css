@@ -1,0 +1,16 @@
+.datatable_action {
+	font-size:20px;
+}
+
+input.error, select.error, textarea.error {
+	border: 1px solid red;
+}
+
+label.error {
+	color: red;
+	font-weight: normal;
+}
+
+input.uppercase {
+	text-transform: uppercase;
+}
